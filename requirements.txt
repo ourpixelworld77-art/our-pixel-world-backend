@@ -2,3 +2,4 @@ pytrends
 google-api-python-client
 pandas
 flask
+gunicorn
