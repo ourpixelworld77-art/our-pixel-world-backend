@@ -1,5 +1,5 @@
 pytrends
-google-api-python-client
-pandas
 flask
+pandas
+google-api-python-client
 gunicorn
